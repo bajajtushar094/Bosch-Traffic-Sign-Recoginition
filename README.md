@@ -101,9 +101,3 @@ In order to install all packages follow the steps below:
 
 > The model will be served on **http://127.0.0.1:5000/**
 
--------
-
-
-## License
-This project is licensed under the [Apache License, Version 2.0]("licence).
-
